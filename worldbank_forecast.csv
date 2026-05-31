@@ -1,0 +1,291 @@
+Country,Country_Code,Region,Year,GDP_Per_Capita_USD,LR_Predicted,Type
+Brazil,BR,South America,2000,4185.99,4257.63,Actual
+Brazil,BR,South America,2001,4334.52,4378.64,Actual
+Brazil,BR,South America,2002,4435.81,4499.66,Actual
+Brazil,BR,South America,2003,4541.33,4620.67,Actual
+Brazil,BR,South America,2004,4719.85,4741.69,Actual
+Brazil,BR,South America,2005,4938.66,4862.71,Actual
+Brazil,BR,South America,2006,5165.58,4983.72,Actual
+Brazil,BR,South America,2007,5380.12,5104.74,Actual
+Brazil,BR,South America,2008,5573.0,5225.76,Actual
+Brazil,BR,South America,2009,5193.13,5346.77,Actual
+Brazil,BR,South America,2010,5276.53,5467.79,Actual
+Brazil,BR,South America,2011,5521.47,5588.8,Actual
+Brazil,BR,South America,2012,5711.32,5709.82,Actual
+Brazil,BR,South America,2013,5767.17,5830.84,Actual
+Brazil,BR,South America,2014,5845.49,5951.85,Actual
+Brazil,BR,South America,2015,6060.24,6072.87,Actual
+Brazil,BR,South America,2016,6118.47,6193.89,Actual
+Brazil,BR,South America,2017,6216.52,6314.9,Actual
+Brazil,BR,South America,2018,6415.49,6435.92,Actual
+Brazil,BR,South America,2019,6658.68,6556.93,Actual
+Brazil,BR,South America,2020,6624.12,6677.95,Actual
+Brazil,BR,South America,2021,6747.6,6798.97,Actual
+Brazil,BR,South America,2022,7009.01,6919.98,Actual
+Brazil,BR,South America,2023,7143.41,7041.0,Actual
+Brazil,BR,South America,2024,,7162.02,Forecast
+Brazil,BR,South America,2025,,7283.03,Forecast
+Brazil,BR,South America,2026,,7404.05,Forecast
+Brazil,BR,South America,2027,,7525.06,Forecast
+Brazil,BR,South America,2028,,7646.08,Forecast
+China,CN,Asia,2000,1632.13,705.65,Actual
+China,CN,Asia,2001,1799.31,1052.59,Actual
+China,CN,Asia,2002,1937.69,1399.53,Actual
+China,CN,Asia,2003,2113.28,1746.47,Actual
+China,CN,Asia,2004,2311.99,2093.42,Actual
+China,CN,Asia,2005,2474.35,2440.36,Actual
+China,CN,Asia,2006,2708.65,2787.3,Actual
+China,CN,Asia,2007,2913.52,3134.24,Actual
+China,CN,Asia,2008,3120.48,3481.18,Actual
+China,CN,Asia,2009,3185.41,3828.12,Actual
+China,CN,Asia,2010,3536.76,4175.07,Actual
+China,CN,Asia,2011,3902.63,4522.01,Actual
+China,CN,Asia,2012,4220.62,4868.95,Actual
+China,CN,Asia,2013,4526.44,5215.89,Actual
+China,CN,Asia,2014,4970.17,5562.83,Actual
+China,CN,Asia,2015,5404.52,5909.77,Actual
+China,CN,Asia,2016,5801.87,6256.71,Actual
+China,CN,Asia,2017,6322.81,6603.66,Actual
+China,CN,Asia,2018,6763.51,6950.6,Actual
+China,CN,Asia,2019,7492.93,7297.54,Actual
+China,CN,Asia,2020,7764.95,7644.48,Actual
+China,CN,Asia,2021,8518.82,7991.42,Actual
+China,CN,Asia,2022,9215.58,8338.36,Actual
+China,CN,Asia,2023,10053.04,8685.31,Actual
+China,CN,Asia,2024,,9032.25,Forecast
+China,CN,Asia,2025,,9379.19,Forecast
+China,CN,Asia,2026,,9726.13,Forecast
+China,CN,Asia,2027,,10073.07,Forecast
+China,CN,Asia,2028,,10420.01,Forecast
+France,FR,Europe,2000,26714.53,26834.64,Actual
+France,FR,Europe,2001,27544.86,27059.43,Actual
+France,FR,Europe,2002,27754.5,27284.23,Actual
+France,FR,Europe,2003,27731.41,27509.03,Actual
+France,FR,Europe,2004,27841.06,27733.82,Actual
+France,FR,Europe,2005,28176.29,27958.62,Actual
+France,FR,Europe,2006,28962.73,28183.42,Actual
+France,FR,Europe,2007,29821.35,28408.21,Actual
+France,FR,Europe,2008,29671.71,28633.01,Actual
+France,FR,Europe,2009,27719.35,28857.8,Actual
+France,FR,Europe,2010,28042.2,29082.6,Actual
+France,FR,Europe,2011,28146.45,29307.4,Actual
+France,FR,Europe,2012,28134.25,29532.19,Actual
+France,FR,Europe,2013,28370.78,29756.99,Actual
+France,FR,Europe,2014,29306.51,29981.78,Actual
+France,FR,Europe,2015,29535.74,30206.58,Actual
+France,FR,Europe,2016,30001.31,30431.38,Actual
+France,FR,Europe,2017,30698.62,30656.17,Actual
+France,FR,Europe,2018,30989.13,30880.97,Actual
+France,FR,Europe,2019,32047.54,31105.77,Actual
+France,FR,Europe,2020,31804.76,31330.56,Actual
+France,FR,Europe,2021,31961.32,31555.36,Actual
+France,FR,Europe,2022,32437.17,31780.15,Actual
+France,FR,Europe,2023,32661.49,32004.95,Actual
+France,FR,Europe,2024,,32229.75,Forecast
+France,FR,Europe,2025,,32454.54,Forecast
+France,FR,Europe,2026,,32679.34,Forecast
+France,FR,Europe,2027,,32904.13,Forecast
+France,FR,Europe,2028,,33128.93,Forecast
+Germany,DE,Europe,2000,28529.92,27676.68,Actual
+Germany,DE,Europe,2001,28959.28,28011.04,Actual
+Germany,DE,Europe,2002,28920.91,28345.39,Actual
+Germany,DE,Europe,2003,28979.72,28679.75,Actual
+Germany,DE,Europe,2004,28948.41,29014.11,Actual
+Germany,DE,Europe,2005,29630.28,29348.47,Actual
+Germany,DE,Europe,2006,29939.64,29682.82,Actual
+Germany,DE,Europe,2007,30489.0,30017.18,Actual
+Germany,DE,Europe,2008,31543.8,30351.54,Actual
+Germany,DE,Europe,2009,29246.4,30685.9,Actual
+Germany,DE,Europe,2010,29666.11,31020.25,Actual
+Germany,DE,Europe,2011,30508.81,31354.61,Actual
+Germany,DE,Europe,2012,30721.05,31688.97,Actual
+Germany,DE,Europe,2013,30744.84,32023.33,Actual
+Germany,DE,Europe,2014,31035.03,32357.68,Actual
+Germany,DE,Europe,2015,31165.53,32692.04,Actual
+Germany,DE,Europe,2016,32271.83,33026.4,Actual
+Germany,DE,Europe,2017,33257.62,33360.75,Actual
+Germany,DE,Europe,2018,34036.92,33695.11,Actual
+Germany,DE,Europe,2019,35164.42,34029.47,Actual
+Germany,DE,Europe,2020,34782.92,34363.83,Actual
+Germany,DE,Europe,2021,34965.08,34698.18,Actual
+Germany,DE,Europe,2022,36153.37,35032.54,Actual
+Germany,DE,Europe,2023,36862.05,35366.9,Actual
+Germany,DE,Europe,2024,,35701.26,Forecast
+Germany,DE,Europe,2025,,36035.61,Forecast
+Germany,DE,Europe,2026,,36369.97,Forecast
+Germany,DE,Europe,2027,,36704.33,Forecast
+Germany,DE,Europe,2028,,37038.69,Forecast
+India,IN,Asia,2000,536.0,408.02,Actual
+India,IN,Asia,2001,566.29,478.4,Actual
+India,IN,Asia,2002,617.31,548.77,Actual
+India,IN,Asia,2003,667.79,619.15,Actual
+India,IN,Asia,2004,727.1,689.53,Actual
+India,IN,Asia,2005,790.28,759.9,Actual
+India,IN,Asia,2006,848.91,830.28,Actual
+India,IN,Asia,2007,923.67,900.66,Actual
+India,IN,Asia,2008,972.06,971.03,Actual
+India,IN,Asia,2009,945.26,1041.41,Actual
+India,IN,Asia,2010,993.02,1111.78,Actual
+India,IN,Asia,2011,1055.11,1182.16,Actual
+India,IN,Asia,2012,1123.94,1252.54,Actual
+India,IN,Asia,2013,1191.62,1322.91,Actual
+India,IN,Asia,2014,1291.8,1393.29,Actual
+India,IN,Asia,2015,1374.31,1463.67,Actual
+India,IN,Asia,2016,1457.62,1534.04,Actual
+India,IN,Asia,2017,1562.32,1604.42,Actual
+India,IN,Asia,2018,1647.67,1674.79,Actual
+India,IN,Asia,2019,1784.32,1745.17,Actual
+India,IN,Asia,2020,1801.66,1815.55,Actual
+India,IN,Asia,2021,1965.32,1885.92,Actual
+India,IN,Asia,2022,2125.79,1956.3,Actual
+India,IN,Asia,2023,2247.19,2026.68,Actual
+India,IN,Asia,2024,,2097.05,Forecast
+India,IN,Asia,2025,,2167.43,Forecast
+India,IN,Asia,2026,,2237.8,Forecast
+India,IN,Asia,2027,,2308.18,Forecast
+India,IN,Asia,2028,,2378.56,Forecast
+Japan,JP,Asia,2000,34872.27,34507.45,Actual
+Japan,JP,Asia,2001,34397.41,34448.85,Actual
+Japan,JP,Asia,2002,34720.9,34390.24,Actual
+Japan,JP,Asia,2003,34898.24,34331.64,Actual
+Japan,JP,Asia,2004,34443.5,34273.04,Actual
+Japan,JP,Asia,2005,34309.23,34214.43,Actual
+Japan,JP,Asia,2006,35043.86,34155.83,Actual
+Japan,JP,Asia,2007,34852.19,34097.23,Actual
+Japan,JP,Asia,2008,34528.93,34038.62,Actual
+Japan,JP,Asia,2009,31911.98,33980.02,Actual
+Japan,JP,Asia,2010,32694.56,33921.42,Actual
+Japan,JP,Asia,2011,32519.01,33862.81,Actual
+Japan,JP,Asia,2012,32906.63,33804.21,Actual
+Japan,JP,Asia,2013,33417.25,33745.61,Actual
+Japan,JP,Asia,2014,33231.88,33687.0,Actual
+Japan,JP,Asia,2015,33702.92,33628.4,Actual
+Japan,JP,Asia,2016,33692.3,33569.8,Actual
+Japan,JP,Asia,2017,34039.96,33511.19,Actual
+Japan,JP,Asia,2018,34392.88,33452.59,Actual
+Japan,JP,Asia,2019,34614.31,33393.99,Actual
+Japan,JP,Asia,2020,32848.58,33335.38,Actual
+Japan,JP,Asia,2021,33455.59,33276.78,Actual
+Japan,JP,Asia,2022,33381.84,33218.18,Actual
+Japan,JP,Asia,2023,33128.07,33159.57,Actual
+Japan,JP,Asia,2024,,33100.97,Forecast
+Japan,JP,Asia,2025,,33042.37,Forecast
+Japan,JP,Asia,2026,,32983.76,Forecast
+Japan,JP,Asia,2027,,32925.16,Forecast
+Japan,JP,Asia,2028,,32866.56,Forecast
+Pakistan,PK,Asia,2000,612.54,574.45,Actual
+Pakistan,PK,Asia,2001,639.36,604.33,Actual
+Pakistan,PK,Asia,2002,669.65,634.22,Actual
+Pakistan,PK,Asia,2003,682.97,664.11,Actual
+Pakistan,PK,Asia,2004,710.63,694.0,Actual
+Pakistan,PK,Asia,2005,730.97,723.88,Actual
+Pakistan,PK,Asia,2006,764.63,753.77,Actual
+Pakistan,PK,Asia,2007,784.85,783.66,Actual
+Pakistan,PK,Asia,2008,822.48,813.54,Actual
+Pakistan,PK,Asia,2009,783.39,843.43,Actual
+Pakistan,PK,Asia,2010,828.95,873.32,Actual
+Pakistan,PK,Asia,2011,849.61,903.2,Actual
+Pakistan,PK,Asia,2012,877.98,933.09,Actual
+Pakistan,PK,Asia,2013,898.98,962.98,Actual
+Pakistan,PK,Asia,2014,950.82,992.86,Actual
+Pakistan,PK,Asia,2015,1003.78,1022.75,Actual
+Pakistan,PK,Asia,2016,1033.83,1052.64,Actual
+Pakistan,PK,Asia,2017,1082.06,1082.53,Actual
+Pakistan,PK,Asia,2018,1139.62,1112.41,Actual
+Pakistan,PK,Asia,2019,1187.82,1142.3,Actual
+Pakistan,PK,Asia,2020,1187.33,1172.19,Actual
+Pakistan,PK,Asia,2021,1222.07,1202.07,Actual
+Pakistan,PK,Asia,2022,1250.27,1231.96,Actual
+Pakistan,PK,Asia,2023,1320.94,1261.85,Actual
+Pakistan,PK,Asia,2024,,1291.73,Forecast
+Pakistan,PK,Asia,2025,,1321.62,Forecast
+Pakistan,PK,Asia,2026,,1351.51,Forecast
+Pakistan,PK,Asia,2027,,1381.39,Forecast
+Pakistan,PK,Asia,2028,,1411.28,Forecast
+South Africa,ZA,Africa,2000,3053.52,3092.7,Actual
+South Africa,ZA,Africa,2001,3160.72,3167.88,Actual
+South Africa,ZA,Africa,2002,3259.13,3243.06,Actual
+South Africa,ZA,Africa,2003,3387.27,3318.25,Actual
+South Africa,ZA,Africa,2004,3493.84,3393.43,Actual
+South Africa,ZA,Africa,2005,3590.98,3468.62,Actual
+South Africa,ZA,Africa,2006,3620.93,3543.8,Actual
+South Africa,ZA,Africa,2007,3691.81,3618.99,Actual
+South Africa,ZA,Africa,2008,3748.57,3694.17,Actual
+South Africa,ZA,Africa,2009,3498.7,3769.36,Actual
+South Africa,ZA,Africa,2010,3654.02,3844.54,Actual
+South Africa,ZA,Africa,2011,3729.35,3919.73,Actual
+South Africa,ZA,Africa,2012,3882.53,3994.91,Actual
+South Africa,ZA,Africa,2013,4000.47,4070.1,Actual
+South Africa,ZA,Africa,2014,4148.84,4145.28,Actual
+South Africa,ZA,Africa,2015,4253.01,4220.46,Actual
+South Africa,ZA,Africa,2016,4372.74,4295.65,Actual
+South Africa,ZA,Africa,2017,4480.72,4370.83,Actual
+South Africa,ZA,Africa,2018,4536.75,4446.02,Actual
+South Africa,ZA,Africa,2019,4691.55,4521.2,Actual
+South Africa,ZA,Africa,2020,4576.0,4596.39,Actual
+South Africa,ZA,Africa,2021,4601.15,4671.57,Actual
+South Africa,ZA,Africa,2022,4743.63,4746.76,Actual
+South Africa,ZA,Africa,2023,4799.42,4821.94,Actual
+South Africa,ZA,Africa,2024,,4897.13,Forecast
+South Africa,ZA,Africa,2025,,4972.31,Forecast
+South Africa,ZA,Africa,2026,,5047.5,Forecast
+South Africa,ZA,Africa,2027,,5122.68,Forecast
+South Africa,ZA,Africa,2028,,5197.87,Forecast
+United Kingdom,GB,Europe,2000,29847.73,30589.86,Actual
+United Kingdom,GB,Europe,2001,30677.72,30873.06,Actual
+United Kingdom,GB,Europe,2002,31395.53,31156.26,Actual
+United Kingdom,GB,Europe,2003,32158.37,31439.45,Actual
+United Kingdom,GB,Europe,2004,32994.93,31722.65,Actual
+United Kingdom,GB,Europe,2005,32919.24,32005.85,Actual
+United Kingdom,GB,Europe,2006,33223.87,32289.04,Actual
+United Kingdom,GB,Europe,2007,33204.08,32572.24,Actual
+United Kingdom,GB,Europe,2008,34191.63,32855.44,Actual
+United Kingdom,GB,Europe,2009,32085.61,33138.63,Actual
+United Kingdom,GB,Europe,2010,32346.61,33421.83,Actual
+United Kingdom,GB,Europe,2011,32258.64,33705.03,Actual
+United Kingdom,GB,Europe,2012,32494.97,33988.22,Actual
+United Kingdom,GB,Europe,2013,32751.76,34271.42,Actual
+United Kingdom,GB,Europe,2014,33548.35,34554.62,Actual
+United Kingdom,GB,Europe,2015,34238.93,34837.81,Actual
+United Kingdom,GB,Europe,2016,35290.78,35121.01,Actual
+United Kingdom,GB,Europe,2017,35780.33,35404.21,Actual
+United Kingdom,GB,Europe,2018,35764.43,35687.4,Actual
+United Kingdom,GB,Europe,2019,36610.54,35970.6,Actual
+United Kingdom,GB,Europe,2020,36045.43,36253.8,Actual
+United Kingdom,GB,Europe,2021,36675.79,36536.99,Actual
+United Kingdom,GB,Europe,2022,37629.4,36820.19,Actual
+United Kingdom,GB,Europe,2023,38184.36,37103.39,Actual
+United Kingdom,GB,Europe,2024,,37386.58,Forecast
+United Kingdom,GB,Europe,2025,,37669.78,Forecast
+United Kingdom,GB,Europe,2026,,37952.98,Forecast
+United Kingdom,GB,Europe,2027,,38236.17,Forecast
+United Kingdom,GB,Europe,2028,,38519.37,Forecast
+United States,US,North America,2000,45669.66,47300.1,Actual
+United States,US,North America,2001,47422.87,47876.77,Actual
+United States,US,North America,2002,48820.21,48453.45,Actual
+United States,US,North America,2003,49993.12,49030.12,Actual
+United States,US,North America,2004,50291.36,49606.79,Actual
+United States,US,North America,2005,50591.33,50183.46,Actual
+United States,US,North America,2006,50690.98,50760.13,Actual
+United States,US,North America,2007,52462.13,51336.8,Actual
+United States,US,North America,2008,53727.8,51913.48,Actual
+United States,US,North America,2009,50837.79,52490.15,Actual
+United States,US,North America,2010,50860.15,53066.82,Actual
+United States,US,North America,2011,52852.47,53643.49,Actual
+United States,US,North America,2012,54626.39,54220.16,Actual
+United States,US,North America,2013,55077.79,54796.83,Actual
+United States,US,North America,2014,55464.35,55373.51,Actual
+United States,US,North America,2015,55857.2,55950.18,Actual
+United States,US,North America,2016,56528.22,56526.85,Actual
+United States,US,North America,2017,57715.88,57103.52,Actual
+United States,US,North America,2018,58709.94,57680.19,Actual
+United States,US,North America,2019,59384.05,58256.87,Actual
+United States,US,North America,2020,58409.03,58833.54,Actual
+United States,US,North America,2021,58718.09,59410.21,Actual
+United States,US,North America,2022,59394.5,59986.88,Actual
+United States,US,North America,2023,60258.54,60563.55,Actual
+United States,US,North America,2024,,61140.22,Forecast
+United States,US,North America,2025,,61716.9,Forecast
+United States,US,North America,2026,,62293.57,Forecast
+United States,US,North America,2027,,62870.24,Forecast
+United States,US,North America,2028,,63446.91,Forecast

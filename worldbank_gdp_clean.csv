@@ -1,0 +1,241 @@
+Country,Country_Code,Year,GDP_Per_Capita_USD,Growth_Rate_Pct,Percentage_Share,Region
+Brazil,BR,2000,4185.99,,2.38,South America
+Brazil,BR,2001,4334.52,3.55,2.41,South America
+Brazil,BR,2002,4435.81,2.34,2.43,South America
+Brazil,BR,2003,4541.33,2.38,2.45,South America
+Brazil,BR,2004,4719.85,3.93,2.53,South America
+Brazil,BR,2005,4938.66,4.64,2.62,South America
+Brazil,BR,2006,5165.58,4.59,2.7,South America
+Brazil,BR,2007,5380.12,4.15,2.77,South America
+Brazil,BR,2008,5573.0,3.59,2.82,South America
+Brazil,BR,2009,5193.13,-6.82,2.8,South America
+Brazil,BR,2010,5276.53,1.61,2.81,South America
+Brazil,BR,2011,5521.47,4.64,2.89,South America
+Brazil,BR,2012,5711.32,3.44,2.93,South America
+Brazil,BR,2013,5767.17,0.98,2.93,South America
+Brazil,BR,2014,5845.49,1.36,2.93,South America
+Brazil,BR,2015,6060.24,3.67,2.99,South America
+Brazil,BR,2016,6118.47,0.96,2.96,South America
+Brazil,BR,2017,6216.52,1.6,2.94,South America
+Brazil,BR,2018,6415.49,3.2,2.99,South America
+Brazil,BR,2019,6658.68,3.79,3.03,South America
+Brazil,BR,2020,6624.12,-0.52,3.07,South America
+Brazil,BR,2021,6747.6,1.86,3.08,South America
+Brazil,BR,2022,7009.01,3.87,3.14,South America
+Brazil,BR,2023,7143.41,1.92,3.15,South America
+China,CN,2000,1632.13,,0.93,Asia
+China,CN,2001,1799.31,10.24,1.0,Asia
+China,CN,2002,1937.69,7.69,1.06,Asia
+China,CN,2003,2113.28,9.06,1.14,Asia
+China,CN,2004,2311.99,9.4,1.24,Asia
+China,CN,2005,2474.35,7.02,1.32,Asia
+China,CN,2006,2708.65,9.47,1.42,Asia
+China,CN,2007,2913.52,7.56,1.5,Asia
+China,CN,2008,3120.48,7.1,1.58,Asia
+China,CN,2009,3185.41,2.08,1.72,Asia
+China,CN,2010,3536.76,11.03,1.88,Asia
+China,CN,2011,3902.63,10.34,2.04,Asia
+China,CN,2012,4220.62,8.15,2.17,Asia
+China,CN,2013,4526.44,7.25,2.3,Asia
+China,CN,2014,4970.17,9.8,2.49,Asia
+China,CN,2015,5404.52,8.74,2.67,Asia
+China,CN,2016,5801.87,7.35,2.81,Asia
+China,CN,2017,6322.81,8.98,2.99,Asia
+China,CN,2018,6763.51,6.97,3.15,Asia
+China,CN,2019,7492.93,10.78,3.41,Asia
+China,CN,2020,7764.95,3.63,3.6,Asia
+China,CN,2021,8518.82,9.71,3.89,Asia
+China,CN,2022,9215.58,8.18,4.13,Asia
+China,CN,2023,10053.04,9.09,4.44,Asia
+France,FR,2000,26714.53,,15.21,Europe
+France,FR,2001,27544.86,3.11,15.35,Europe
+France,FR,2002,27754.5,0.76,15.21,Europe
+France,FR,2003,27731.41,-0.08,14.98,Europe
+France,FR,2004,27841.06,0.4,14.93,Europe
+France,FR,2005,28176.29,1.2,14.98,Europe
+France,FR,2006,28962.73,2.79,15.17,Europe
+France,FR,2007,29821.35,2.96,15.33,Europe
+France,FR,2008,29671.71,-0.5,14.99,Europe
+France,FR,2009,27719.35,-6.58,14.95,Europe
+France,FR,2010,28042.2,1.16,14.92,Europe
+France,FR,2011,28146.45,0.37,14.71,Europe
+France,FR,2012,28134.25,-0.04,14.45,Europe
+France,FR,2013,28370.78,0.84,14.42,Europe
+France,FR,2014,29306.51,3.3,14.67,Europe
+France,FR,2015,29535.74,0.78,14.58,Europe
+France,FR,2016,30001.31,1.58,14.52,Europe
+France,FR,2017,30698.62,2.32,14.54,Europe
+France,FR,2018,30989.13,0.95,14.45,Europe
+France,FR,2019,32047.54,3.42,14.59,Europe
+France,FR,2020,31804.76,-0.76,14.74,Europe
+France,FR,2021,31961.32,0.49,14.61,Europe
+France,FR,2022,32437.17,1.49,14.52,Europe
+France,FR,2023,32661.49,0.69,14.41,Europe
+Germany,DE,2000,28529.92,,16.24,Europe
+Germany,DE,2001,28959.28,1.5,16.13,Europe
+Germany,DE,2002,28920.91,-0.13,15.84,Europe
+Germany,DE,2003,28979.72,0.2,15.65,Europe
+Germany,DE,2004,28948.41,-0.11,15.52,Europe
+Germany,DE,2005,29630.28,2.36,15.75,Europe
+Germany,DE,2006,29939.64,1.04,15.68,Europe
+Germany,DE,2007,30489.0,1.83,15.67,Europe
+Germany,DE,2008,31543.8,3.46,15.94,Europe
+Germany,DE,2009,29246.4,-7.28,15.77,Europe
+Germany,DE,2010,29666.11,1.44,15.79,Europe
+Germany,DE,2011,30508.81,2.84,15.94,Europe
+Germany,DE,2012,30721.05,0.7,15.78,Europe
+Germany,DE,2013,30744.84,0.08,15.63,Europe
+Germany,DE,2014,31035.03,0.94,15.53,Europe
+Germany,DE,2015,31165.53,0.42,15.38,Europe
+Germany,DE,2016,32271.83,3.55,15.62,Europe
+Germany,DE,2017,33257.62,3.05,15.75,Europe
+Germany,DE,2018,34036.92,2.34,15.88,Europe
+Germany,DE,2019,35164.42,3.31,16.01,Europe
+Germany,DE,2020,34782.92,-1.08,16.11,Europe
+Germany,DE,2021,34965.08,0.52,15.98,Europe
+Germany,DE,2022,36153.37,3.4,16.19,Europe
+Germany,DE,2023,36862.05,1.96,16.26,Europe
+India,IN,2000,536.0,,0.31,Asia
+India,IN,2001,566.29,5.65,0.32,Asia
+India,IN,2002,617.31,9.01,0.34,Asia
+India,IN,2003,667.79,8.18,0.36,Asia
+India,IN,2004,727.1,8.88,0.39,Asia
+India,IN,2005,790.28,8.69,0.42,Asia
+India,IN,2006,848.91,7.42,0.44,Asia
+India,IN,2007,923.67,8.81,0.47,Asia
+India,IN,2008,972.06,5.24,0.49,Asia
+India,IN,2009,945.26,-2.76,0.51,Asia
+India,IN,2010,993.02,5.05,0.53,Asia
+India,IN,2011,1055.11,6.25,0.55,Asia
+India,IN,2012,1123.94,6.52,0.58,Asia
+India,IN,2013,1191.62,6.02,0.61,Asia
+India,IN,2014,1291.8,8.41,0.65,Asia
+India,IN,2015,1374.31,6.39,0.68,Asia
+India,IN,2016,1457.62,6.06,0.71,Asia
+India,IN,2017,1562.32,7.18,0.74,Asia
+India,IN,2018,1647.67,5.46,0.77,Asia
+India,IN,2019,1784.32,8.29,0.81,Asia
+India,IN,2020,1801.66,0.97,0.83,Asia
+India,IN,2021,1965.32,9.08,0.9,Asia
+India,IN,2022,2125.79,8.17,0.95,Asia
+India,IN,2023,2247.19,5.71,0.99,Asia
+Japan,JP,2000,34872.27,,19.85,Asia
+Japan,JP,2001,34397.41,-1.36,19.16,Asia
+Japan,JP,2002,34720.9,0.94,19.02,Asia
+Japan,JP,2003,34898.24,0.51,18.85,Asia
+Japan,JP,2004,34443.5,-1.3,18.47,Asia
+Japan,JP,2005,34309.23,-0.39,18.23,Asia
+Japan,JP,2006,35043.86,2.14,18.35,Asia
+Japan,JP,2007,34852.19,-0.55,17.92,Asia
+Japan,JP,2008,34528.93,-0.93,17.45,Asia
+Japan,JP,2009,31911.98,-7.58,17.21,Asia
+Japan,JP,2010,32694.56,2.45,17.4,Asia
+Japan,JP,2011,32519.01,-0.54,17.0,Asia
+Japan,JP,2012,32906.63,1.19,16.9,Asia
+Japan,JP,2013,33417.25,1.55,16.98,Asia
+Japan,JP,2014,33231.88,-0.55,16.63,Asia
+Japan,JP,2015,33702.92,1.42,16.64,Asia
+Japan,JP,2016,33692.3,-0.03,16.31,Asia
+Japan,JP,2017,34039.96,1.03,16.12,Asia
+Japan,JP,2018,34392.88,1.04,16.04,Asia
+Japan,JP,2019,34614.31,0.64,15.76,Asia
+Japan,JP,2020,32848.58,-5.1,15.22,Asia
+Japan,JP,2021,33455.59,1.85,15.29,Asia
+Japan,JP,2022,33381.84,-0.22,14.95,Asia
+Japan,JP,2023,33128.07,-0.76,14.62,Asia
+Pakistan,PK,2000,612.54,,0.35,Asia
+Pakistan,PK,2001,639.36,4.38,0.36,Asia
+Pakistan,PK,2002,669.65,4.74,0.37,Asia
+Pakistan,PK,2003,682.97,1.99,0.37,Asia
+Pakistan,PK,2004,710.63,4.05,0.38,Asia
+Pakistan,PK,2005,730.97,2.86,0.39,Asia
+Pakistan,PK,2006,764.63,4.6,0.4,Asia
+Pakistan,PK,2007,784.85,2.64,0.4,Asia
+Pakistan,PK,2008,822.48,4.79,0.42,Asia
+Pakistan,PK,2009,783.39,-4.75,0.42,Asia
+Pakistan,PK,2010,828.95,5.82,0.44,Asia
+Pakistan,PK,2011,849.61,2.49,0.44,Asia
+Pakistan,PK,2012,877.98,3.34,0.45,Asia
+Pakistan,PK,2013,898.98,2.39,0.46,Asia
+Pakistan,PK,2014,950.82,5.77,0.48,Asia
+Pakistan,PK,2015,1003.78,5.57,0.5,Asia
+Pakistan,PK,2016,1033.83,2.99,0.5,Asia
+Pakistan,PK,2017,1082.06,4.67,0.51,Asia
+Pakistan,PK,2018,1139.62,5.32,0.53,Asia
+Pakistan,PK,2019,1187.82,4.23,0.54,Asia
+Pakistan,PK,2020,1187.33,-0.04,0.55,Asia
+Pakistan,PK,2021,1222.07,2.93,0.56,Asia
+Pakistan,PK,2022,1250.27,2.31,0.56,Asia
+Pakistan,PK,2023,1320.94,5.65,0.58,Asia
+South Africa,ZA,2000,3053.52,,1.74,Africa
+South Africa,ZA,2001,3160.72,3.51,1.76,Africa
+South Africa,ZA,2002,3259.13,3.11,1.79,Africa
+South Africa,ZA,2003,3387.27,3.93,1.83,Africa
+South Africa,ZA,2004,3493.84,3.15,1.87,Africa
+South Africa,ZA,2005,3590.98,2.78,1.91,Africa
+South Africa,ZA,2006,3620.93,0.83,1.9,Africa
+South Africa,ZA,2007,3691.81,1.96,1.9,Africa
+South Africa,ZA,2008,3748.57,1.54,1.89,Africa
+South Africa,ZA,2009,3498.7,-6.67,1.89,Africa
+South Africa,ZA,2010,3654.02,4.44,1.94,Africa
+South Africa,ZA,2011,3729.35,2.06,1.95,Africa
+South Africa,ZA,2012,3882.53,4.11,1.99,Africa
+South Africa,ZA,2013,4000.47,3.04,2.03,Africa
+South Africa,ZA,2014,4148.84,3.71,2.08,Africa
+South Africa,ZA,2015,4253.01,2.51,2.1,Africa
+South Africa,ZA,2016,4372.74,2.82,2.12,Africa
+South Africa,ZA,2017,4480.72,2.47,2.12,Africa
+South Africa,ZA,2018,4536.75,1.25,2.12,Africa
+South Africa,ZA,2019,4691.55,3.41,2.14,Africa
+South Africa,ZA,2020,4576.0,-2.46,2.12,Africa
+South Africa,ZA,2021,4601.15,0.55,2.1,Africa
+South Africa,ZA,2022,4743.63,3.1,2.12,Africa
+South Africa,ZA,2023,4799.42,1.18,2.12,Africa
+United Kingdom,GB,2000,29847.73,,16.99,Europe
+United Kingdom,GB,2001,30677.72,2.78,17.09,Europe
+United Kingdom,GB,2002,31395.53,2.34,17.2,Europe
+United Kingdom,GB,2003,32158.37,2.43,17.37,Europe
+United Kingdom,GB,2004,32994.93,2.6,17.69,Europe
+United Kingdom,GB,2005,32919.24,-0.23,17.5,Europe
+United Kingdom,GB,2006,33223.87,0.93,17.4,Europe
+United Kingdom,GB,2007,33204.08,-0.06,17.07,Europe
+United Kingdom,GB,2008,34191.63,2.97,17.28,Europe
+United Kingdom,GB,2009,32085.61,-6.16,17.31,Europe
+United Kingdom,GB,2010,32346.61,0.81,17.21,Europe
+United Kingdom,GB,2011,32258.64,-0.27,16.86,Europe
+United Kingdom,GB,2012,32494.97,0.73,16.69,Europe
+United Kingdom,GB,2013,32751.76,0.79,16.65,Europe
+United Kingdom,GB,2014,33548.35,2.43,16.79,Europe
+United Kingdom,GB,2015,34238.93,2.06,16.9,Europe
+United Kingdom,GB,2016,35290.78,3.07,17.08,Europe
+United Kingdom,GB,2017,35780.33,1.39,16.94,Europe
+United Kingdom,GB,2018,35764.43,-0.04,16.68,Europe
+United Kingdom,GB,2019,36610.54,2.37,16.67,Europe
+United Kingdom,GB,2020,36045.43,-1.54,16.7,Europe
+United Kingdom,GB,2021,36675.79,1.75,16.76,Europe
+United Kingdom,GB,2022,37629.4,2.6,16.85,Europe
+United Kingdom,GB,2023,38184.36,1.47,16.85,Europe
+United States,US,2000,45669.66,,26.0,North America
+United States,US,2001,47422.87,3.84,26.42,North America
+United States,US,2002,48820.21,2.95,26.75,North America
+United States,US,2003,49993.12,2.4,27.0,North America
+United States,US,2004,50291.36,0.6,26.97,North America
+United States,US,2005,50591.33,0.6,26.89,North America
+United States,US,2006,50690.98,0.2,26.54,North America
+United States,US,2007,52462.13,3.49,26.97,North America
+United States,US,2008,53727.8,2.41,27.15,North America
+United States,US,2009,50837.79,-5.38,27.42,North America
+United States,US,2010,50860.15,0.04,27.07,North America
+United States,US,2011,52852.47,3.92,27.62,North America
+United States,US,2012,54626.39,3.36,28.06,North America
+United States,US,2013,55077.79,0.83,27.99,North America
+United States,US,2014,55464.35,0.7,27.76,North America
+United States,US,2015,55857.2,0.71,27.57,North America
+United States,US,2016,56528.22,1.2,27.37,North America
+United States,US,2017,57715.88,2.1,27.33,North America
+United States,US,2018,58709.94,1.72,27.38,North America
+United States,US,2019,59384.05,1.15,27.04,North America
+United States,US,2020,58409.03,-1.64,27.06,North America
+United States,US,2021,58718.09,0.53,26.83,North America
+United States,US,2022,59394.5,1.15,26.59,North America
+United States,US,2023,60258.54,1.45,26.59,North America
